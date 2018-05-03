@@ -1,0 +1,1 @@
+clear;clc;c=createtext('QIM');imshow(c);imwrite(c,'c.jpg','jpg');
